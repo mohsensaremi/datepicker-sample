@@ -1,0 +1,3 @@
+[submodule "src/datepicker"]
+	path = src/datepicker
+	url = https://github.com/mohsensaremi/datepicker.git
